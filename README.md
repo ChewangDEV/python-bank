@@ -30,7 +30,7 @@ A beginner-friendly command-line banking application built with Python.
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_LINK
+git clone https://github.com/ChewangDEV/python-bank
 ```
 
 👨‍💻 Author
