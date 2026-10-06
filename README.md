@@ -31,3 +31,6 @@ A beginner-friendly command-line banking application built with Python.
 
 ```bash
 git clone YOUR_REPOSITORY_LINK
+
+👨‍💻 Author
+Chewang Tamang
